@@ -9,7 +9,7 @@ My studies are focused on Machine Learning and Artificial Intelligence, with a p
  - Bachelor of Science in Computer Engineering at `Politecnico di Milano`
 
 <!-- :dart: **Kaggle Competitions Repo:**
- - [Recommender Systems Competition]() -->
+ - [Recommender Systems Competition](https://github.com/LacavaMarco/RecSys2021_Govigli_Lacava)
 
 
 :pushpin: **Projects:**
