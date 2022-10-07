@@ -1,4 +1,4 @@
-## Hi there, nice to meet you 👋
+## Hello there, nice to meet you
 
 
 I'm Marco Lacava and I'm a Computer Science and Engineering student at Politecnico di Milano.
