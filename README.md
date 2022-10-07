@@ -15,6 +15,7 @@ My studies are focused on Machine Learning and Artificial Intelligence, with a p
 :pushpin: **Projects:**
  - [Software Engineering - 'Santorini board game'](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava)
  - [Computer Graphics - 'Objects Showcase'](https://github.com/YGLAM/Computer-Graphics-Project-Showcase)
+ - [Robotics - 'Mapping, localization, navigation'](https://github.com/LacavaMarco/Robotics-project-2022)
 
 
 :loudspeaker: **Contacts:**
