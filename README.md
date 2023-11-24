@@ -1,7 +1,7 @@
 ## Hello there, nice to meet you
 
 
-I'm Marco Lacava and I'm a Computer Science and Engineering student at Politecnico di Milano.
+I'm Marco Lacava and I'm a Computer Science and Engineering graduate at Politecnico di Milano.
 My studies are focused on Machine Learning and Artificial Intelligence, with a pinch of Robotics too.
 
 :mortar_board: **Education:**
