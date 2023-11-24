@@ -8,13 +8,10 @@ My studies are focused on Machine Learning and Artificial Intelligence, with a p
  - Master of Science in Computer Science and Engineering at `Politecnico di Milano`
  - Bachelor of Science in Computer Engineering at `Politecnico di Milano`
 
-:dart: **Kaggle Competitions Repo:**
- - [Recommender Systems Competition](https://github.com/LacavaMarco/RecSys2021_Govigli_Lacava)
-
-
 :pushpin: **Projects:**
  - [Software Engineering - 'Santorini board game'](https://github.com/LorenzoMainetti/ing-sw-2020-Mainetti-Iorio-Lacava)
  - [Computer Graphics - 'Objects Showcase'](https://github.com/YGLAM/Computer-Graphics-Project-Showcase)
+ - [Recommender Systems Competition](https://github.com/LacavaMarco/RecSys2021_Govigli_Lacava)
  - [Robotics - 'Mapping, localization, navigation'](https://github.com/LacavaMarco/Robotics-project-2022)
 
 
